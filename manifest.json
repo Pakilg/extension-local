@@ -27,6 +27,7 @@
             ],
             "matches": [
                 "*://articulo.mercadolibre.com.ar/*",
+                "*://mercadolibre.com.ar/*",
                 "*://articulo.mercadolibre.com.ve/*",
                 "*://articulo.mercadolibre.com.bo/*",
                 "*://articulo.mercadolibre.cl/*",
